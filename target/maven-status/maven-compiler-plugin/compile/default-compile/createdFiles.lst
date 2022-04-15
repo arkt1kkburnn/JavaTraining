@@ -1,0 +1,9 @@
+org\nikita\people\JsonImpl.class
+org\nikita\people\Student$Builder.class
+org\nikita\people\Student$StudentName.class
+org\nikita\people\Validator.class
+org\nikita\people\Student.class
+org\nikita\people\HeadStudent.class
+org\nikita\people\Campus.class
+org\nikita\App.class
+org\nikita\people\json.class
