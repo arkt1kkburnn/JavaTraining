@@ -48,7 +48,7 @@
             <archive>
               <manifest>
                 <mainClass>
-                  org.niki.App
+                  org.nikita.App
                 </mainClass>
               </manifest>
             </archive>
@@ -74,7 +74,7 @@
                   true
                 </addClasspath>
                 <mainClass>
-                  org.niki.App
+                  org.nikita.App
                 </mainClass>
               </manifest>
             </archive>
